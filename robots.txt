@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-dgurwf.pagoimpuetovehiculo.top/sitemap.xml
